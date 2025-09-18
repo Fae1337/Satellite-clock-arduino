@@ -1,5 +1,6 @@
 # Arduino GPS Clock Project
 
+<img src="resource/main.jpg">   
 This repository contains the files and resources for building a GPS clock using an Arduino Nano and a TFT display.
 
 ## Files Included
